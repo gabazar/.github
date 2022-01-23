@@ -1,8 +1,8 @@
+![gabazar_c](https://user-images.githubusercontent.com/9539009/150692199-ce527a01-063c-47be-99e2-869311f0a899.png)
+
 # Hello there 👋
 
 O Projeto Gabazar é uma plataforma para troca de livros open source.
-
-![gabazar_c](https://user-images.githubusercontent.com/9539009/150692199-ce527a01-063c-47be-99e2-869311f0a899.png)
 
 ## Gitflow
 
