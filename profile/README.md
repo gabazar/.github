@@ -2,7 +2,7 @@
 
 O Projeto Gabazar é uma plataforma para troca de livros open source.
 
-![gabazar_c](https://user-images.githubusercontent.com/9539009/150692151-209d486b-3d71-4f51-ab35-05c7b829d71c.png)
+![gabazar_c](https://user-images.githubusercontent.com/9539009/150692199-ce527a01-063c-47be-99e2-869311f0a899.png)
 
 ## Gitflow
 
