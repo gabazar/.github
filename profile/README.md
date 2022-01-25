@@ -12,11 +12,8 @@ Os commits seguem o padrão de descrição visual do https://gitmoji.dev/
 
 A arquitetura esta dividida em dominios, cada dominio segue o padrão de arquitetura hexagonal com fronteiras logicas onde as regras de negocio (core) estão bem isoladas de objetos externos atravez de adapters. Todos os objetos externos à aplicação são traduzidos/mapeados antes de serem trafegados entre os pacotes a fim de evitar extensas refatorações a cada alteração de contrato. 
 
-## Cobertura
-https://app.codecov.io/gh/gabazar
-
-## Containers
-
+[![Codecov](https://img.shields.io/badge/Codecov-f01f7a?style=for-the-badge&logoColor=white)](https://app.codecov.io/gh/gabazar)
+[![Codecov](https://img.shields.io/badge/Sonar_Cloud-f3702a?style=for-the-badge&logoColor=white)](https://sonarcloud.io/organizations/gabazar/projects)
 [![Docker Hub](https://img.shields.io/badge/Docker_HUB-2496ed?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/gabazar)
 
 ## Projetos
