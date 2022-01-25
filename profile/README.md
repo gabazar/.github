@@ -15,6 +15,10 @@ A arquitetura esta dividida em dominios, cada dominio segue o padrão de arquite
 ## Cobertura
 https://app.codecov.io/gh/gabazar
 
+## Containers
+
+[![Docker Hub](https://img.shields.io/badge/Docker_HUB-2496ed?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/gabazar)
+
 ## Projetos
 
 ### Microsserviços:
@@ -37,4 +41,3 @@ https://app.codecov.io/gh/gabazar
 | Projeto | Build | Cobertura |
 | -- | -- | --| 
 | [gabazar-front](https://github.com/gabazar/gabazar-front) | | |
-
