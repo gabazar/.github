@@ -14,7 +14,7 @@ A arquitetura esta dividida em dominios, cada dominio segue o padrão de arquite
 
 [![Codecov](https://img.shields.io/badge/Codecov-f01f7a?style=for-the-badge&logoColor=white)](https://app.codecov.io/gh/gabazar)
 [![Codecov](https://img.shields.io/badge/Sonar_Cloud-f3702a?style=for-the-badge&logoColor=white)](https://sonarcloud.io/organizations/gabazar/projects)
-[![Docker Hub](https://img.shields.io/badge/Docker_HUB-2496ed?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/gabazar)
+[![Docker Hub](https://img.shields.io/badge/Docker_HUB-2496ed?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/orgs/gabazar/repositories)
 
 ## Projetos
 
